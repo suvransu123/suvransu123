@@ -46,9 +46,10 @@
   - A learning and preparation platform  
   - Built using **React, TypeScript, Tailwind CSS, and MongoDB**  
   - Focused on performance and user experience  
-
----
-
+### Hospital-Management
+  - The Hospital Management System is a web application designed to manage hospital operations efficiently.
+  - It helps handle patient records, appointments, doctors, billing, and administrative tasks in one place.
+  -Built using ** React,TypeScript,Tailwind CSS,MongoDB,Next.js
 ## 📈 What I’m Working On  
 - Building full-stack applications  
 - Improving UI/UX skills  
