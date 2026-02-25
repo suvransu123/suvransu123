@@ -27,7 +27,11 @@
 - MUI (Material UI)  
 
 ### 🗄️ Backend & Database  
-- MongoDB  
+- MongoDB
+- Express.js
+- Node.js
+- MySql
+- Docker
 
 ---
 
